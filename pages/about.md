@@ -14,14 +14,16 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection consists of illustrations from three different sources: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+  - The herball, or, Generall historie of plantes / gathered by John Gerarde of London, master in chirurgerie, by John Norton, 1597.
+  - Botanical watercolours by Ellen Arabella Whinfield, 1835-1884.
+  - Our edible toadstools and mushrooms and how to distinguish them; a selection of thirty native food varieties, easily recognizable by their marked individualities, with simple rules for the identification of poisonous species, by W. Hamilton Gibson, 1895.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This collection of images is significant because most of them have not been digitized. Many of the names are not included with the illustration or are simply outdated so I have identified them and listed them as their current taxonomic names so as to portray them more accurately to current scientific standards. I have listed the printing method for each illustration, as well. There are no artists listed for The herball as woodcuts generally do not have an artist’s signature.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+I used these sources to identify the mushrooms and fungi:
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+  - (https://www.mushroomexpert.com/index.html)
+  - (https://www.gbif.org/)
+  - (https://explorer.natureserve.org/)
