@@ -24,6 +24,6 @@ This collection of images is significant because most of them have not been digi
 
 I used these sources to identify the mushrooms and fungi:
 
-  - [https://www.mushroomexpert.com/index.html]
-  - [https://www.gbif.org/]
-  - [https://explorer.natureserve.org/]
+  - [https://www.mushroomexpert.com/index.html](https://www.mushroomexpert.com/index.html)
+  - [https://www.gbif.org/](https://www.gbif.org/)
+  - [https://explorer.natureserve.org/](https://explorer.natureserve.org/)
