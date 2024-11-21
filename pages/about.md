@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="fungi017.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Project" %}
 
 ## About the Collection
 
@@ -27,3 +27,5 @@ I used these sources to identify the mushrooms and fungi:
   - [https://www.mushroomexpert.com/index.html](https://www.mushroomexpert.com/index.html)
   - [https://www.gbif.org/](https://www.gbif.org/)
   - [https://explorer.natureserve.org/](https://explorer.natureserve.org/)
+
+## About the Project
