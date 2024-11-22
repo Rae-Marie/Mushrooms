@@ -4,9 +4,14 @@ layout: about
 permalink: /method.html
 ---
 
+{% include feature/jumbotron.html objectid="/objects/fungi018.jpg" %}
+
+{% include feature/nav-menu.html sections="Relief print;Watercolor painting" %}
+
+
 Three printing methods were used for this collection of mushroom and fungi illustrations.
 
-## Relief print using woodblocks
+## Relief print
 
 Relief printring is one of the oldest and most well-known forms of printmaking. It is a type of printmaking technique where the image is created by carving or cutting away parts of a surface, leaving the raised areas to hold ink that is then transferred onto paper, fabric, or other materials. In relief printing, the parts of the printing surface that remain raised are inked and pressed onto the material to create an image. The areas that are carved away don't print, creating a contrast between the printed and non-printed areas. In this case, a woodblock was used to create the mushroom illustrations in “The herball”.
 
