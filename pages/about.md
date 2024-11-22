@@ -35,4 +35,4 @@ The sources I used are all 129+ years old and are not subject to copyright. Howe
 ## About the Project
 This site was created by Lorrainna (Rae) Davis for the ILS-Z 652 Digital Libraries final project. 
 
-Special thanks to Hannah Kish, Digitization Assistnant at the Lilly Library, for ensuring permission to take photos and use the sources for my class project. 
+Special thanks to John Walsh and Gyuri Kang, the course instructor and assistant for their help in developing this website. A special thanks to Sarah Hensler, because I don't think I would have finished without her help and site as a reference. A further thank you to Hannah Kish, Digitization Assistnant at the Lilly Library, for ensuring permission to take photos and use the sources for my class project. 
