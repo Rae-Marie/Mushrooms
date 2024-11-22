@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the Project" %}
 
-## About the Collection
+# About the Collection
 
 This collection consists of illustrations from three different sources: 
 
@@ -28,7 +28,7 @@ I used these sources to identify the mushrooms and fungi:
   - [https://www.gbif.org/](https://www.gbif.org/)
   - [https://explorer.natureserve.org/](https://explorer.natureserve.org/)
 
-# Rights and Permissions
+## Rights and Permissions
 
 The sources I used are all 129+ years old and are not subject to copyright. However, the sources are all owned by the Lilly Library who has official rights to the sources.
 
