@@ -28,4 +28,11 @@ I used these sources to identify the mushrooms and fungi:
   - [https://www.gbif.org/](https://www.gbif.org/)
   - [https://explorer.natureserve.org/](https://explorer.natureserve.org/)
 
+# Rights and Permissions
+
+The sources I used are all 129+ years old and are not subject to copyright. However, the sources are all owned by the Lilly Library who has official rights to the sources.
+
 ## About the Project
+This site was created by Lorrainna (Rae) Davis for the ILS-Z 652 Digital Libraries final project. 
+
+Special thanks to Hannah Kish, Digitization Assistnant at the Lilly Library, for ensuring permission to take photos and use the sources for my class project. 
